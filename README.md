@@ -1,5 +1,4 @@
-# Snake
- snake game
+SNAKE MOBILE GAME
 
 A floating joystick is used (from a package)
 Food type (randomly between blue and red) is Spawned through the FoodSpawner in a random location in the game area
